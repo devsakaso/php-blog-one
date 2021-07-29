@@ -25,11 +25,9 @@
                 <h5>Site Links</h5>
 
                 <ul>
-                    <li><a href="#0">About Us</a></li>
-                    <li><a href="#0">Blog</a></li>
-                    <li><a href="#0">FAQ</a></li>
-                    <li><a href="#0">Terms</a></li>
-                    <li><a href="#0">Privacy Policy</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="about.php">About</a></li>
+                    <li><a href="contact.php">Contact</a></li>
                 </ul>
 
             </div> <!-- end s-footer__site-links -->  
