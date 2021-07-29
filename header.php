@@ -3,7 +3,7 @@
 <header class="s-header">
 
     <div class="s-header__logo">
-        <a class="logo" href="index.html">
+        <a class="logo" href="index.php">
             <img src="images/logo.svg" alt="Homepage">
         </a>
     </div>
@@ -15,31 +15,31 @@
             <h3 class="s-header__nav-heading h6">Navigate to</h3>
 
             <ul class="s-header__nav">
-                <li class="current"><a href="index.html" title="">Home</a></li>
+                <li class="current"><a href="index.php" title="">Home</a></li>
                 <li class="has-children">
                     <a href="#0" title="">Categories</a>
                     <ul class="sub-menu">
-                        <li><a href="category.html">Design</a></li>
-                        <li><a href="category.html">Lifestyle</a></li>
-                        <li><a href="category.html">Photography</a></li>
-                        <li><a href="category.html">Vacation</a></li>
-                        <li><a href="category.html">Work</a></li>
-                        <li><a href="category.html">Health</a></li>
-                        <li><a href="category.html">Family</a></li>
-                        <li><a href="category.html">Relationship</a></li>
+                        <li><a href="category.php">Design</a></li>
+                        <li><a href="category.php">Lifestyle</a></li>
+                        <li><a href="category.php">Photography</a></li>
+                        <li><a href="category.php">Vacation</a></li>
+                        <li><a href="category.php">Work</a></li>
+                        <li><a href="category.php">Health</a></li>
+                        <li><a href="category.php">Family</a></li>
+                        <li><a href="category.php">Relationship</a></li>
                     </ul>
                 </li>
                 <li class="has-children">
                     <a href="#0" title="">Blog</a>
                     <ul class="sub-menu">
-                        <li><a href="single-video.html">Video Post</a></li>
-                        <li><a href="single-audio.html">Audio Post</a></li>
-                        <li><a href="single-standard.html">Standard Post</a></li>
+                        <li><a href="single-video.php">Video Post</a></li>
+                        <li><a href="single-audio.php">Audio Post</a></li>
+                        <li><a href="single-standard.php">Standard Post</a></li>
                     </ul>
                 </li>
-                <li><a href="styles.html" title="">Styles</a></li>
-                <li><a href="about.html" title="">About</a></li>
-                <li><a href="contact.html" title="">Contact</a></li>
+                <li><a href="styles.php" title="">Styles</a></li>
+                <li><a href="about.php" title="">About</a></li>
+                <li><a href="contact.php" title="">Contact</a></li>
             </ul> <!-- end s-header__nav -->
 
             <a href="#0" title="Close Menu" class="s-header__overlay-close close-mobile-menu">Close</a>
