@@ -5,15 +5,7 @@
     <!--- basic page needs
     ================================================== -->
     <meta charset="utf-8">
-    <title>
-    <?php 
-            require "admin/includes/dbh.php"; 
-
-            $query = "SELECT * FROM blog_post";
-            $result = mysqli_query($conn, $query);
-            echo mysqli_num_rows($result); // should get 0 as the output if there aren't any rows in blog_post yet
-        ?>
-     </title>
+    <title>Sak Blog</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
